@@ -60,7 +60,6 @@ end
 group :production do
   gem 'pg',  '1.0.0'
   gem 'fog', '1.42'
-  gem 'redis', '~> 4.0'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
