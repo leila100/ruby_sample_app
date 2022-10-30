@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'actionpack', '6.0.0'
+gem 'actionpack', '6.0.4.8'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.0'
