@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 
-gem 'actionpack', '6.0.0'
+gem 'actionpack', '7.0.4.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 6.0.0'
+gem 'rails', '~> 7.0.4'
 # Use sqlite3 as the database for Active Record
 # gem 'sqlite3', '~> 1.4'
 # Use Puma as the app server
@@ -18,7 +18,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.7'
 
 gem 'bcrypt',                  '~> 3.1.7'
-gem 'faker',                   '1.7.3'
+gem 'faker',                   '3.1.0'
 gem 'carrierwave',             '1.2.2'
 gem 'mini_magick',             ">= 4.9.4"
 gem 'will_paginate',           '3.1.6'
